@@ -2,23 +2,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=green&center=true&vCenter=true&width=433&lines=Front End Developer"></a>
 </p>
-</br></br>
-</br>
-
-## Connect with me  
-- ***📌 https://www.linkedin.com/in/%C3%BCmid-ayvazov-10b6b1247***  
-  
-
-- ***❓ https://portfolio-umid-ayvazov.vercel.app/***  
-  
-
-- ***<ins> 💬 umid.ayvazov93@gmail.com</ins>***  
-  
-## Recent Blog Posts  
-*I love developing and learning new things. And this is the main reason why I chose the IT field. There is no limit to development in IT.*  
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
   <h1>Frontend</h1>
@@ -43,6 +26,17 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 </div>
 </td></tr></table>  
-    </br>
+## Connect with me  
+- ***📌 https://www.linkedin.com/in/%C3%BCmid-ayvazov-10b6b1247***  
+  
+
+- ***❓ https://portfolio-umid-ayvazov.vercel.app/***  
+  
+
+- ***<ins> 💬 umid.ayvazov93@gmail.com</ins>***  
+  
+## Recent Blog Posts  
+*I love developing and learning new things. And this is the main reason why I chose the IT field. There is no limit to development in IT.*  
+<br/>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=UmiD-AyvazoV&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=karacagurbuz&label=Profile%20views&color=0e75b6&style=flat" alt="#" /> </p>
