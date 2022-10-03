@@ -14,7 +14,8 @@
 </div>  
   
 
-### ***<ins><div align="center">I'm Ümid Ayvazov, a Front End Developer👨‍💻💻👨‍💻</div></ins>***  
+## Recent Blog Posts  
+*I love developing and learning new things. And this is the main reason why I chose the IT field. There is no limit to development in IT.*  
   
 
 - ***📌 https://www.linkedin.com/in/%C3%BCmid-ayvazov-10b6b1247***  
@@ -60,46 +61,4 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
 
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=UmiD-AyvazoV&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-*I love developing and learning new things. And this is the main reason why I chose the IT field. There is no limit to development in IT.*  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=UmiD-AyvazoV&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
