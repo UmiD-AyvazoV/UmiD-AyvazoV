@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-12639
-Fork on GitHub
-3195
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Ümid Ayvazov</h1>
 <h3 align="center">A passionate Front End Developer from Azerbaijan</h3>
 
