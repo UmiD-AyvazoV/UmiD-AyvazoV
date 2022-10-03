@@ -4,3 +4,6 @@
 </p>
 </br></br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=karacagurbuz&label=Profile%20views&color=0e75b6&style=flat" alt="#" /> </p>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=UmiD-AyvazoV&&style=flat-square" align="center" />
+</div> 
