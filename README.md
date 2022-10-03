@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=green&center=true&vCenter=true&width=433&lines=Front End Developer"></a>
 </p>
+
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
   <h1>Frontend</h1>
@@ -26,6 +27,7 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 </div>
 </td></tr></table>  
+
 ## Connect with me  
 - ***📌 https://www.linkedin.com/in/%C3%BCmid-ayvazov-10b6b1247***  
   
