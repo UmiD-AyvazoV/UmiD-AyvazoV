@@ -9,4 +9,4 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=umid-ayvazov&show_icons=true&locale=en&layout=compact" alt="umid-ayvazov" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=umid-ayvazov&label=Profile%20views&color=0e75b6&style=flat" alt="umid-ayvazov" /> </p>
+
