@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ümid Ayvazov</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F74473&center=true&vCenter=true&width=433&lines=Front End Developer;Always+learning+new+things!"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=lime&center=true&vCenter=true&width=433&lines=Front End Developer;Always+learning+new+things!"></a>
 </p>
 <h3 align="center">A passionate Front End Developer from Azerbaijan</h3>
 
