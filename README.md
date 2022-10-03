@@ -1,5 +1,6 @@
+<h1>Hi 👋, I'm Ümid Ayvazov</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=green&center=true&vCenter=true&width=433&lines=Hi 👋, I'm Ümid Ayvazov;Front End Developer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=green&center=true&vCenter=true&width=433&lines=Front End Developer"></a>
 </p>
 <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=black&center=true&vCenter=true&width=433&lines=I love developing."></a>
