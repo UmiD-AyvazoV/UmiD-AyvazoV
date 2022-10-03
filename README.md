@@ -10,7 +10,7 @@
 ## Recent Blog Posts  
 *I love developing and learning new things. And this is the main reason why I chose the IT field. There is no limit to development in IT.*  
   
-
+## Connect with me  
 - ***📌 https://www.linkedin.com/in/%C3%BCmid-ayvazov-10b6b1247***  
   
 
