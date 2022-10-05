@@ -30,7 +30,5 @@
   
 ## Recent Blog Posts  
 *I love developing and learning new things. And this is the main reason why I chose the IT field. There is no limit to development in IT.*  
-<br/>  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=UmiD-AyvazoV&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br/>  <br/>  <br/>  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=karacagurbuz&label=Profile%20views&color=0e75b6&style=flat" alt="#" /> </p>
