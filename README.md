@@ -5,7 +5,7 @@
 
 ## My Skill Set  
 <table><tr><td valign="top">
-<div align="center">  
+<div align="center">
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
@@ -17,16 +17,16 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a> 
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 </div>
-</td></tr></table>  
+</td></tr></table>
 
 ## Connect with me  
-- ***📌 https://www.linkedin.com/in/%C3%BCmid-ayvazov-10b6b1247***  
+- ***📌 [https://www.linkedin.com/in/%C3%BCmid-ayvazov-10b6b1247](https://www.linkedin.com/in/umidayvazov/)***  
   
 
 - ***❓ https://portfolio-umid-ayvazov.vercel.app/***  
   
 
-- ***<ins> 💬 umid.ayvazov93@gmail.com</ins>***  
+- ***<ins> 💬 umid.eyvazov93@gmail.com</ins>***  
   
 ## Recent Blog Posts  
 *I love developing and learning new things. And this is the main reason why I chose the IT field. There is no limit to development in IT.*  
