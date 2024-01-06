@@ -1,33 +1,3 @@
-### Hi there 👋, Ümid Ayvazov
-#### I am Front End Developer
-![I am Front End Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-Passionate learner
-Front End Dev Candidate
-I love developing and learning new things.
-And this is the main reason why I chose the IT field.
-There is no limit to development in IT.
-
-Skills: HTML / CSS / Bootstrap / Git, Github / Sass/Scss / Tailwind / JavaScript / React JS / Redux / Redux Toolkit / TypeScript / Redux Thunk / Ant Design
-
-- 📫 How to reach me: umid.eyvazov93@gmail.com 
-- ⚡ Fun fact: No Pain No Gain 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/UmiD-AyvazoV)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/umidayvazov/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-umid-ayvazov.vercel.app/)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/UmiD-AyvazoV)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/UmiD-AyvazoV/contributions?format=svg&private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/UmiD-AyvazoV)  
-
-
-
-
-
-
-
 <h1  align="center" color="red">Hi 👋, I'm Ümid Ayvazov</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=green&center=true&vCenter=true&width=433&lines=Front End Developer"></a>
