@@ -32,3 +32,18 @@
 *I love developing and learning new things. And this is the main reason why I chose the IT field. There is no limit to development in IT.*  
 <br/>  <br/>  <br/>  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=karacagurbuz&label=Profile%20views&color=0e75b6&style=flat" alt="#" /> </p>
+
+
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/UmiD-AyvazoV)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=UmiD-AyvazoV)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmiD-AyvazoV)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=UmiD-AyvazoV&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=UmiD-AyvazoV)  
+
