@@ -20,7 +20,7 @@
 </td></tr></table>
 
 ## Connect with me  
-- ***📌 [https://www.linkedin.com/in/%C3%BCmid-ayvazov-10b6b1247](https://www.linkedin.com/in/umidayvazov/)***  
+- ***📌 www.linkedin.com/in/umidayvazov***  
   
 
 - ***❓ https://portfolio-umid-ayvazov.vercel.app/***  
